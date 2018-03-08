@@ -7,11 +7,11 @@ body {
 }
 
 a:hover {
-  border-bottom: 3px solid #4fc08d;
+  border-bottom: 3px solid #644fc0;
 }
 
 .button {
-  background-color: #4fc08d !important;
+  background-color: #644fc0 !important;
   color: #fff !important;
 }
 
@@ -31,9 +31,10 @@ a:hover {
 }
 
 .nav h1 {
-  color: #4fc08d;
+  color: #644fc0;
   display: inline-block;
   margin: 10px 0;
+  font-weight: 900;
 }
 
 /* ---------- nav-setting ---------- */
@@ -58,7 +59,7 @@ a:hover {
 /* ---------- post-content ---------- */
 
 .post-content h3 a {
-  color: #4fc08d !important;
+  color: #644fc0 !important;
 }
 
 .post-content .tag {
